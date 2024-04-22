@@ -1,4 +1,7 @@
-# `Dafoux` ⌨️
+# `DeeDee` ⌨️
+
+_Ooo.. What does this button do.._
+
 ## Main objectives
 - Frankenstein my own DIY keyboard from the shared wisdom of the internet.
 - Write/use a firmware for it.
@@ -30,5 +33,3 @@
 	2. Encoders
 	3. Display support 
 	4. LEDs
-
-
