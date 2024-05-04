@@ -12,7 +12,7 @@ Before that I thought the only way to get anything from this project is to use Q
 
 https://github.com/simmsb/keyboard - for his profile status - _I *will* put rust on your microcontroller, and you *will* enjoy it._
 https://www.youtube.com/@therustybits - where I got confidence I can program 1key keyboard.
-https://www.youtube.com/@rhymu - for 80h+ of streams where he's walking a similar path.
+https://www.youtube.com/@rhymu - for 80h+ of streams where he's walking a similar path. With [some notes](https://onedrive.live.com/redir?resid=1559240B032C4B51%2114662&authkey=%21AJfFtXCmcISIDvA&page=View&wd=target%28Main.one%7C5b638c17-fe07-4f53-a915-647dd4069821%2FQuestions%20and%20Answers%7Ce3787f38-255c-42b3-b5d3-05d676d18c57%2F%29&wdorigin=NavigationUrl) taken along the way
 ### Where I started sketching (declaratively)  my layout
 
 https://flatfootfox.com/ergogen-part1-units-points/ - one stop shop to learn about the unofficial ergogen tool:
@@ -24,6 +24,7 @@ https://kbfirmware.com/
 
 ### Beautiful projects to get inspired from
 
+https://github.com/sadekbaroudi/barobord
 https://github.com/AlaaSaadAbdo/battoota - for it's collection of models
 https://github.com/ianmaclarty/ik  - for it's low profile
 https://github.com/GEIGEIGEIST/KLOTZ - a-z product delivery
