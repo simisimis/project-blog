@@ -38,3 +38,7 @@ Since all of these considerations were happening in parallel, a list of features
 ____
 
 I knew that this was a big bite and I knew that to successfully swallow it, I need to chew it really well. All I had to do is put time and effort at a steady pace and eventually things will stop branching out and instead will start falling into places.
+
+### Standing questions
+
+- where to add vias

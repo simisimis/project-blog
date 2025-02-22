@@ -22,7 +22,7 @@ _Ooo.. What does this button do.._
 1. Designed and 3d printed case
 2.  Wiring:
 	- Plan A: Designed and ordered pcb with reset buttons, power leds and switches broken out on the case etc etc etc.
-	-  Plan B: Handwired.
+	- Plan B: Handwired.
 3. Encoder, trackpad and display in place even if they aren't going to be connected. 
 4. Connected through USB 
 
