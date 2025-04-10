@@ -1,19 +1,32 @@
-# `Cockpit`
-
+# `Childs room panel`
 
 ## Main objectives
-- Add LED strip to childs bed
-- Connect it to a WLED driven controller
-- Create a control panel with arcade buttons
-- esphome configure the buttons to control WLED
-- Use buttons for other things like controlling roller shutter
-- Document it well and share it.
+- Add LED strip to childs bed with [WLED driven controller](https://www.aliexpress.com/item/1005006157192935.html)
+- Create a box with buttons with ESPHome driven controller
+- Configure the panel buttons
+- Document it well and share it
 
-## Design idea(tbd)
+- Design, 3d print, assemble the box
+- Upload ESPHome firmware on a ESP32 controller
+- Wire the buttons/controller
+- Configure the buttons to control WLED LED strip
+
+## Design requirements
 - DIY!
+- OTA upgrades.
+- Repairable
+- A variety of different type/color arcade buttons
+- A box is running on a rechargable battery
 
 ## Goals that define basic success
-1. Designed and 3d printed case
-2. 
+  A child is able to control bed LEDs with his panel
+  - Turn on/off
+  - Change colors
+  - Cycle through effects
+  - Set a timer(might be a bad idea)
 
-## End goal of unachievable completion
+## End goal of (un)achievable completion
+Use buttons for Home Assistant exposed entities
+- Roller shutters
+- Sonos speakers
+- etc.

@@ -7,7 +7,7 @@ _Ooo.. What does this button do.._
 - Write/use a firmware for it.
 - Document it well and share parts of it.
 
-## Design idea(subject to change)
+## Design requirements
 - DIY!
 - Column staggered monoblock split (Absolem like) 
 - Low profile Kailh Choc v1 Sunset 36key: 2x 18key(15 + 3 for thumb cluster ).
