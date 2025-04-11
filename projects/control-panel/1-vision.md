@@ -1,15 +1,11 @@
-# `Childs room panel`
+# `Child rooms panel`
 
 ## Main objectives
 - Add LED strip to childs bed with [WLED driven controller](https://www.aliexpress.com/item/1005006157192935.html)
-- Create a box with buttons with ESPHome driven controller
-- Configure the panel buttons
-- Document it well and share it
-
 - Design, 3d print, assemble the box
-- Upload ESPHome firmware on a ESP32 controller
-- Wire the buttons/controller
+- Use ESP32 with ESPHome firmware
 - Configure the buttons to control WLED LED strip
+- Document it well and share it
 
 ## Design requirements
 - DIY!
