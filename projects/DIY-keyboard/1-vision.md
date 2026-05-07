@@ -1,3 +1,12 @@
+---
+title: "DeeDee"
+date: "2024-04-13"
+tags: ["keyboard","DIY", "electronics", "3d-print"]
+slug: "diy-keyboard"
+summary: "A portable wireless programmable ergonomic ortholinear split keyboard."
+status: "ongoing"
+---
+
 # `DeeDee` ⌨️
 
 _Ooo.. What does this button do.._
