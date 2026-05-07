@@ -4,7 +4,9 @@ date: "2025-04-11"
 tags: ["iot", "esphome", "3d-print"]
 slug: "control-panel"
 summary: "DIY ESP32 control panel for child room lighting."
+status: "done"
 ---
+
 # `Child rooms panel`
 
 ## Main objectives
