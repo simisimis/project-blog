@@ -1,3 +1,12 @@
+---
+title: "HomeLab on kubernetes (k3s)"
+date: "2025-06-13"
+tags: ["k3s", "kubernetes", "gitops", "argocd", "homelab"]
+slug: "homelab"
+summary: "A multi-zone self-hosted k3s platform with GitOps, shared storage, secrets, and observability."
+status: "ongoing"
+---
+
 # `HomeLab on kubernetes(k3s)`
 
 ## Main objectives
