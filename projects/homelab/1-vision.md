@@ -1,32 +1,33 @@
 ---
-title: "HomeLab on kubernetes (k3s)"
+title: "HomeLab on Kubernetes (k3s)"
 date: "2025-06-13"
-tags: ["k3s", "kubernetes", "gitops", "argocd", "homelab"]
+tags: ["k3s", "k8s", "kubernetes", "gitops", "argocd", "homelab"]
 slug: "homelab"
-summary: "A multi-zone self-hosted k3s platform with GitOps, shared storage, secrets, and observability."
+summary: "Vision and baseline goals for a GitOps-managed k3s homelab."
 status: "ongoing"
 ---
 
-# `HomeLab on kubernetes(k3s)`
+# `HomeLab on Kubernetes (k3s)`
 
 ## Main objectives
-- Create a multi-zone self hosted k3s cluster
+- Create a multi-zone self hosted Kubernetes(k3s) cluster
 - Migrate workloads
 
 ## Design requirements
 - GITOPS, ArgoCD, workflows
-- use wireguard to connect to other locations
+- use wireguard to connect to wire locations
 - domain zone control(let's encrypt)
 - persistent storage available for all nodes
 - metrics/alerting
 - secrets
 
 ## Goals that define basic success
-- A healthy multi-zone k3s cluster
-- IaC on git
-- Secrets management
-- DNS name issuing/signing
-- wireguard
+- A healthy multi-zone Kubernetes cluster(k3s)
+- IaC on git(GitOps)
+- Secrets store(Vault)
+- DNS name issuing/signing(Cert-manager with CloudFlare)
+- Wireguard
+- Metrics/logs collected with OTLP collector and stored in Victoriametrics
 
 ## End goal of (un)achievable completion
-- TBD
+- Can't think of any
