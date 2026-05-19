@@ -1,12 +1,3 @@
----
-title: "HomeLab: the stack"
-date: "2026-05-14"
-tags: ["k3s", "k8s", "kubernetes", "gitops", "argocd", "gateway-api", "homelab"]
-slug: "homelab-the-stack"
-summary: "Current state of the homelab stack managed from the repo."
-status: "ongoing"
----
-
 # `HomeLab: the stack`
 
 ## What is running today

@@ -1,12 +1,3 @@
----
-title: "HomeLab: the story"
-date: "2026-05-14"
-tags: ["k3s", "kubernetes", "gitops", "homelab"]
-slug: "homelab-story"
-summary: "Why this homelab exists, what changed, and what still need changing"
-status: "ongoing"
----
-
 # `HomeLab: the story`
 
 ## Inspiration/Motivation
